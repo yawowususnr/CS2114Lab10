@@ -94,7 +94,7 @@ public class DLListTest extends TestCase {
     
     // ----------------------------------------------------------
     /**
-     * test.
+     * test file.
      */
     public void testSize2() {
         list.add("1");
